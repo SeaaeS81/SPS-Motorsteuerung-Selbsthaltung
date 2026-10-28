@@ -27,3 +27,7 @@ Der Motor (Q0.0) bleibt auf 1, obwohl die Start-Taste (I0.3) auf 0 ist.
 ### Nachweis der Stopp-Funktion
 Die Stopp-Taste (I0.4) unterbricht den Stromkreis und der Motor (Q0.0) schaltet ab.
 ![Watch Table Stopp](03_stop.jpg)
+
+## Lernkontext & Quellen
+Dieses Projekt entstand im Rahmen des Selbststudiums mit den offiziellen Lernmaterialien von Siemens SCE. 
+Die verwendete Engineering-Software (TIA Portal V19, S7-PLCSIM V19) wurde als legale Trial-Version direkt von Siemens bezogen. Die Erstellung der Screenshots, das Testen der Logik und das Verfassen der Dokumentation erfolgten eigenständig.
